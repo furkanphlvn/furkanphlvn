@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Furkan Pehlivan
-
 🚀 Full Stack Developer  
 💻 Hands-on experience in backend and frontend development  
 🌍 Open to freelance opportunities  
