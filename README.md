@@ -1,5 +1,5 @@
 🚀 Full Stack Developer  
-💻 Hands-on experience in backend, frontend, and mobile development
+💻 Hands-on experience in backend, frontend, and mobile development   
 🌍 Open to freelance opportunities  
 
 ---
