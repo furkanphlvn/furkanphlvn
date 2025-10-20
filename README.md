@@ -51,9 +51,3 @@
 
 ## 📫 Contact  
 📧 **furkan_phlvn@icloud.com**  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkanphlvn&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
